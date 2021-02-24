@@ -1,0 +1,102 @@
+body{ 
+     height: 1100px; 
+ 	background-color: #8c8c8c; 
+ } 
+ div.header{ 
+  
+ 	width: 1500px; 
+ 	height: 82px; 
+ } 
+ span{ 
+ 	font-size: 28px; 
+ 	font-style: italic; 
+ 	color: #C2010A; 
+ } 
+ div#main 
+ { 
+ 	padding-left: 3%; 
+ 	position: fixed; 
+ 	box-sizing: border-box; 
+ 	width: 189.75px; 
+ 	height: 1100px; 
+ 	padding-top: 8px; 
+ 	font-size: 18px; 
+ 	font-style: normal; 
+ } 
+ div.archive 
+ { 
+     position: absolute; 
+     box-sizing: border-box; 
+     right: 20px; 
+     padding-left: 5%; 
+     width: 1033.15px; 
+ 	height: 1100px; 
+ 	padding-top: 2%;  
+ 	font-size: 22px; 
+ 	font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif; 
+  
+ } 
+  
+ div.sidebar.sticky 
+ { 
+ 	width: 189.75px; 
+ 	height: 599.35px; 
+ } 
+ div.author__icon 
+ { 
+ 	width: 189.75px; 
+ 	height: 175px; 
+ } 
+  
+ img 
+ { 
+ 	border-radius: 50%; 
+ 	width: 175px; 
+ 	height: 175px; 
+ } 
+ div.fouham-content 
+ { 
+ 	width: 189.75px; 
+ 	height: 92.35px; 
+ } 
+ h1{ 
+ 	width: 189.75px; 
+ 	height: 21.7px; 
+ 	font-size: 18px; 
+ 	font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif; 
+  
+ } 
+ div.fouham-bio 
+ { 
+   width: 189.75px; 
+   height: 60.75px; 
+ } 
+ div.fouham-links 
+ { 
+ 	padding-right: 30% 
+ 	width: 189.75px; 
+ 	height: 295.25px 
+ } 
+ ul.social-icons{ 
+ width: 189.75; 
+ height: 295.25; 
+ padding-left: 4%; 
+ } 
+  
+ h1.cv-title{ 
+  width: 980.45; 
+  height: 28.13; 
+  font-size: 26px; 
+  font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif; 
+  
+ } 
+ h1#work-experience{ 
+ 	width: 300px; 
+ 	height: 34px; 
+ } 
+ h1#education,#internship,#work-experience,#skills,#hobbies{ 
+ 	width: 980.45; 
+ 	height: 33.77; 
+ 	font-size: 26px; 
+ 	font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif; 
+ } 
